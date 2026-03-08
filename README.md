@@ -25,4 +25,4 @@ Student academic performance is influenced by multiple academic and personal fac
 The analysis provided valuable insights into the factors affecting student academic performance. Through data preprocessing, visualization, and machine learning modeling, the project successfully demonstrated how student outcomes can be predicted with reasonable accuracy. This work highlights the importance of data-driven approaches in education and shows how machine learning can support better academic planning and decision-making.
 
 
-**Author:** Rajitha
+
